@@ -1,0 +1,144 @@
+@font-face{
+	font-family: VCR;
+	src: url(VCR.ttf);
+}
+
+h3,h4{
+	font-family: VCR;
+}
+
+
+
+
+
+a:link{
+	text-decoration: none;
+	color:black;
+}
+a:visited{
+	color:black;
+}
+
+
+/* Header */
+	#profile_pic{
+		border-radius: 50%;
+		width: 100px;
+		height: 100px;
+		max-width: 50%;
+		max-height: 50%;
+		margin-left: 20px;
+		
+		
+
+	}
+
+	#header_h3{
+		font-family: VCR;
+		width: 200px;
+		height: 10px;
+
+}
+
+	#sub_header_h3{
+		font-family: VCR;
+		width: 200px;
+		height: 10px;
+		margin-top: 10px;
+		margin-left: 25px;
+	}
+#hr_header{
+	width: 140px;
+	margin-top: -20px;
+	border-top: 1px dashed #8c8b8b;
+	border-bottom: 1px dashed #fff;
+}
+
+
+/* Nav bar */
+	
+	#nav_bar{
+		text-align: center;
+	}
+
+	
+	
+	#nav_bar>li{
+		list-style: none;
+		display: inline-block;
+		font-family: VCR;
+		font-size: 30px;
+		padding: 10px;
+	}
+
+/* Container */
+
+#container{
+	height: 50%;
+}
+
+
+#hr_container{
+	margin-top: 250px;
+}	
+
+/* Section */ 
+		
+		#section_header{
+			font-family: VCR;
+			text-align: center;
+			margin-top: 50px;
+		}
+
+		#section_p{
+			text-align: center;
+			font-family: VCR;
+		}
+	
+		#heart_pic{
+			width: 50%px;
+			height: 50%px;
+			
+			margin-left: 46%;
+		}
+
+		#personalproject{
+			
+			float: left;
+			margin-left: 25%;
+			max-width: 400px;
+		}
+
+		#verticalslice{
+			float:right;
+			margin-right: 25%;
+			max-width: 400px;
+		}
+		
+		#github_pic{
+			width: 40px;
+			height: 40px;
+		}
+
+
+
+/* Article */ 
+
+/* Aside */
+
+/* Footer */ 
+
+
+
+#name_tag_footer{
+	width: 10%;
+
+}
+
+.icons i {
+
+	margin-top: 30px;	font-size: 40px;
+	text-align: center;
+	padding: 2px;
+	
+}
